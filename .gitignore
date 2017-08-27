@@ -22,3 +22,5 @@ face_generation/data/
 */*.zip
 */*.gz
 
+
+batch-norm/MNIST_data/*
